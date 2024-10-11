@@ -1,0 +1,14 @@
+.top-section {
+  border: 1px solid black;
+  padding: 20px;
+  text-align: justify;
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+}
+
+.image-section img {
+  height: 300px;
+}
